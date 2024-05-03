@@ -1,0 +1,112 @@
+nav{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(248, 213, 219) ;
+    display: flex;
+    flex-direction: row;
+}
+nav div{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+     
+   }
+   .a{
+    width: 20% ;
+    justify-content: center;
+   }
+.a img{
+    width: 100px;
+    height: 20px;
+}
+
+
+
+   .b{
+    width: 55%;
+    align-items: center;
+    justify-content: end;
+    gap: 20px;
+    color: black;
+
+   }
+.b a{
+    text-decoration: none;
+    color:   black;
+}
+
+   .c{
+    width: 25%;
+    justify-content: center;
+   }
+   .btn{
+    width: 120px;
+    height: 25px;
+    background-color: #BF5AF2;
+    border: none;
+    color: white;
+
+   }
+   body{
+    background-color: rgb(248, 213, 219);
+   }
+    .head{
+        width: 100%;
+        height: 750px;
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        
+    }
+    .head h1{
+         color: #5856D6;
+        font-family: Roboto;
+        font-size: 52px;
+        font-weight: 700;
+        line-height: 60.94px;
+        text-align: center;
+
+        
+    }
+     .E{
+        width: 30% ;
+        height:500px ;
+        justify-content: center;
+     }
+     .E img{
+        width: 200px;
+        height: 400px;
+     }
+
+
+
+
+
+
+     .F{
+        width: 50% ;
+        height: 500px;
+        justify-content: start;
+        align-items: center;
+     }
+.btn1{
+    width: 250px;
+    height: 40px;
+    background-color: #BF5AF2;
+    border: none;
+    color: white;   
+}
+
+
+
+      
+     .G{
+        width: 20% ;
+        height: 500px;
+        justify-content: end;
+     }
+     .G img{
+        width: 200px;
+        height: 200px;
+     }
